@@ -5,3 +5,5 @@
 {"timestamp":"1450119859","author":"kerry@mindtribe.com","location":{"commit":"409b568a41cc6d9525e9b6d7d7ec4ed9e7490665"}}
 
 {"timestamp":"1450119915","author":"kerry@mindtribe.com","location":{"commit":"409b568a41cc6d9525e9b6d7d7ec4ed9e7490665"},"description":"how do i do code"}
+
+{"timestamp":"1450127515","author":"xyzzy@uber.com","parent":"146b6b2fd8f84bbfa61456d3ae848903d946ecdd","location":{"commit":"409b568a41cc6d9525e9b6d7d7ec4ed9e7490665"},"description":"I herj ya like comments,\nso I put a comment in yo COMMENT!","resolved":false}
