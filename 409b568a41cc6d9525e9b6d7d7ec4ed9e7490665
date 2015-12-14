@@ -1,3 +1,5 @@
 {"timestamp":"1450117921","author":"lrewega@uber.com","location":{"commit":"409b568a41cc6d9525e9b6d7d7ec4ed9e7490665"},"resolved":false}
 
 {"timestamp":"1450119215","author":"lrewega@uber.com","parent":"48a34f1f9cbf2d114526f175c2920c8bcfc16d21","location":{"commit":"409b568a41cc6d9525e9b6d7d7ec4ed9e7490665"},"description":"yeah hi"}
+
+{"timestamp":"1450119859","author":"kerry@mindtribe.com","location":{"commit":"409b568a41cc6d9525e9b6d7d7ec4ed9e7490665"}}
